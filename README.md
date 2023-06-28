@@ -1,2 +1,4 @@
 # The-Wall
 Keywords – Private cloud, Firewall, Home Automation, Raspberry Pi 4,NAS(Network Attached Storage)
+
+This device has the major and main purpose in privacy, a small device that can blocks adds and restrictive contents, add an extra layer of security firewalls, and in future it can be developed for home automation also like a mini server working you can store your offline data (works like a google cloud storage service), though google is a third-party app to store our data we can trust them it is a well-known trustworthy company but in future they can use and process our data to show their advertisements with our knowledge while you sign into a new device itself. To overcome this issue this can be implemented to make every individual privacy more secure without accepting any agreement, just simple plug and play to use that device at very low and efficient cost. And the device is “THE WALL”.
